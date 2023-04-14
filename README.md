@@ -3,4 +3,4 @@
 ---
 This is a simple repo to demonstrate how to build a ChatGPT plugin.
 
-See my medium post for more info ![https://medium.com]
+[See my medium post for more info](https://medium.com/@djnugent1/build-a-plugin-for-chatgpt-node-js-b39a0c802d2f)
