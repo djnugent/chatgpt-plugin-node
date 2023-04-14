@@ -1,2 +1,4 @@
-# chatgpt-plugin-node
-A sample plugin for ChatGPT written in Node.js
+# ChatGPT Example Plugin in Node.js
+This is a simple repo to demonstrate how to build a ChatGPT plugin.
+
+See my medium post for more info ![https://medium.com]
